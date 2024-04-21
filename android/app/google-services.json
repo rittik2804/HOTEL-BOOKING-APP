@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "692853451022",
+    "project_id": "najarastays-758bd",
+    "storage_bucket": "najarastays-758bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692853451022:android:a1fe379d1f0a6cc99d4f5f",
+        "android_client_info": {
+          "package_name": "com.najarastays.najara_stays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692853451022-enmm60leof8ss51rrrfng1mnagq20hm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.najarastays.najara_stays",
+            "certificate_hash": "e144ea4222b0cea3d9c584866ffc5e8e993725d3"
+          }
+        },
+        {
+          "client_id": "692853451022-hd9gebnjtq25ipmuvteb4musofq235md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.najarastays.najara_stays",
+            "certificate_hash": "d0f9d533682d3ea17eb66d58fb1290ecc3139499"
+          }
+        },
+        {
+          "client_id": "692853451022-ks2kauf1jnnlhkvrv8epl27vpgq3nfjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.najarastays.najara_stays",
+            "certificate_hash": "63c60917ca8ed2d5e8f575696b4725e9e92a739b"
+          }
+        },
+        {
+          "client_id": "692853451022-l7fo11hgm2bhss8nenjvq0fl22efg2mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruxcwAVQoJ9Rj0mCXiQZIRHojvFEWdkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692853451022-bgos912u7ps1nip7qrodgn22j7dbh0v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692853451022:android:a97b3a511dbab8759d4f5f",
+        "android_client_info": {
+          "package_name": "com.najarastays.najarastays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692853451022-l7fo11hgm2bhss8nenjvq0fl22efg2mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruxcwAVQoJ9Rj0mCXiQZIRHojvFEWdkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692853451022-bgos912u7ps1nip7qrodgn22j7dbh0v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

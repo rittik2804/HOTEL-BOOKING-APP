@@ -1,0 +1,258 @@
+{
+    "error": false,
+    "message": "Hotel details",
+    "data": {
+        "id": "70",
+        "main_image": "uploads/main_images/201512021226366133-87c507048e6a11e9a8880242ac110006.avif",
+        "type": "1",
+        "hotel_type": "1",
+        "slug": null,
+        "hotel_name": "Apple Croft Cottages by NAJARA STAYS",
+        "description": "Apple Croft Cottages by NAJARA STAYS give you a taste of village life. These cottages are built high up so you can see the beautiful Sunshine Coast. Staying here feels like going back in time when these cottages were made by people who didn't have much. It's a peaceful and calm place. Everything you need is nearby because the cottages are in a good location.",
+        "contact": "9816051236",
+        "aadhar": "uploads/Aadhar/Demo_Adhaar72.jpeg",
+        "aadhar_back": "uploads/Aadhar/Demo_Adhaar73.jpeg",
+        "pan": "uploads/Pan/Demo_Adhaar36.jpeg",
+        "gst": "DOCS YET TO RECEIVE",
+        "cheque": "uploads/Cheque/Demo_Adhaar36.jpeg",
+        "certificate": "uploads/Certificate/Demo_Adhaar36.jpeg",
+        "license": "uploads/License/Demo_Adhaar36.jpeg",
+        "address": "Naggar - Manali Rd, Aleo, Manali, Himachal Pradesh 175103",
+        "created_at": "2023-11-21 00:24:10",
+        "updated_at": null,
+        "state": "14",
+        "city": "Manali",
+        "is_top_hotel": "0",
+        "room_quantity": "2",
+        "commission": "20",
+        "google_map_link": "https://maps.app.goo.gl/tggb2pAbvxbTo9Ea7",
+        "img_name": "201512021226366133-87c507048e6a11e9a8880242ac110006",
+        "room_booked": "18",
+        "checkin_time": "12:00:00",
+        "checkout_time": "11:00:00",
+        "mrp": "2000",
+        "offer_price": "1992",
+        "amenities": ",geyser,flat_screen_tv,toiletries,cctv,wifi,charis,table,bed_side_tables,health_faucet,shower",
+        "rating": null,
+        "rating_count": "0",
+        "rooms": [
+            {
+                "id": "91",
+                "room_type": "1",
+                "hotel_id": "70",
+                "room_name": "Deluxe Room",
+                "photos": "455,456,457,458",
+                "inclusions": "",
+                "exclusions": "",
+                "checkin_time": "12:00:00",
+                "checkout_time": "11:00:00",
+                "mrp": "2000",
+                "offer_price": "1992",
+                "room_size": "315 Sq Ft",
+                "washroom_size": "130 Sq Ft",
+                "bed_type": "1",
+                "washroom": "1",
+                "extra_bed_chargeable": "1",
+                "amenities": ",geyser,flat_screen_tv,toiletries,cctv,wifi,charis,table,bed_side_tables,health_faucet,shower",
+                "created_at": "2023-12-18 13:12:49",
+                "updated_at": null,
+                "status": "1",
+                "cp_meal_price": "199",
+                "map_meal_price": "399",
+                "ap_meal_price": "599",
+                "room_quantity": "2",
+                "room_booked": "0",
+                "all_rooms_booked": false,
+                "amenities_icons": [
+                    {
+                        "name": "geyser",
+                        "path": "/uploads/amenities_icons/geyser.png"
+                    },
+                    {
+                        "name": "toiletries",
+                        "path": "/uploads/amenities_icons/toiletries.png"
+                    },
+                    {
+                        "name": "cctv",
+                        "path": "/uploads/amenities_icons/cctv.png"
+                    },
+                    {
+                        "name": "wifi",
+                        "path": "/uploads/amenities_icons/wifi.png"
+                    },
+                    {
+                        "name": "table",
+                        "path": "/uploads/amenities_icons/table.png"
+                    },
+                    {
+                        "name": "health_faucet",
+                        "path": "/uploads/amenities_icons/health_faucet.png"
+                    },
+                    {
+                        "name": "shower",
+                        "path": "/uploads/amenities_icons/shower.png"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "path": "uploads/room_images/93bc5e615e6ebb8e252fdedcaf224372.webp",
+                        "is_primary": "0",
+                        "img_name": "93bc5e615e6ebb8e252fdedcaf224372"
+                    },
+                    {
+                        "path": "uploads/room_images/2932ced4c5fb863d27e2f03c56798306.webp",
+                        "is_primary": "0",
+                        "img_name": "2932ced4c5fb863d27e2f03c56798306"
+                    },
+                    {
+                        "path": "uploads/room_images/0d1b9a654ae9509bf4be5cee05f6ecf1.webp",
+                        "is_primary": "0",
+                        "img_name": "0d1b9a654ae9509bf4be5cee05f6ecf1"
+                    },
+                    {
+                        "path": "uploads/room_images/420e9a9de865ff55bb0fdefe2988f65c.webp",
+                        "is_primary": "1",
+                        "img_name": "420e9a9de865ff55bb0fdefe2988f65c"
+                    }
+                ],
+                "rooms_available": -16
+            },
+            {
+                "id": "92",
+                "room_type": "2",
+                "hotel_id": "70",
+                "room_name": "Executive Room",
+                "photos": "459,460,461,462,463,464,465",
+                "inclusions": "",
+                "exclusions": "",
+                "checkin_time": "12:00:00",
+                "checkout_time": "11:00:00",
+                "mrp": "2500",
+                "offer_price": "2300",
+                "room_size": "340 Sq Ft",
+                "washroom_size": "140 Sq Ft",
+                "bed_type": "1",
+                "washroom": "1",
+                "extra_bed_chargeable": "1",
+                "amenities": ",geyser,flat_screen_tv,balcony,toiletries,cctv,wifi,charis,table,bed_side_tables,health_faucet,shower",
+                "created_at": "2023-12-18 13:12:57",
+                "updated_at": null,
+                "status": "1",
+                "cp_meal_price": "199",
+                "map_meal_price": "399",
+                "ap_meal_price": "599",
+                "room_quantity": "6",
+                "room_booked": "0",
+                "all_rooms_booked": false,
+                "amenities_icons": [
+                    {
+                        "name": "geyser",
+                        "path": "/uploads/amenities_icons/geyser.png"
+                    },
+                    {
+                        "name": "balcony",
+                        "path": "/uploads/amenities_icons/balcony.png"
+                    },
+                    {
+                        "name": "toiletries",
+                        "path": "/uploads/amenities_icons/toiletries.png"
+                    },
+                    {
+                        "name": "cctv",
+                        "path": "/uploads/amenities_icons/cctv.png"
+                    },
+                    {
+                        "name": "wifi",
+                        "path": "/uploads/amenities_icons/wifi.png"
+                    },
+                    {
+                        "name": "table",
+                        "path": "/uploads/amenities_icons/table.png"
+                    },
+                    {
+                        "name": "health_faucet",
+                        "path": "/uploads/amenities_icons/health_faucet.png"
+                    },
+                    {
+                        "name": "shower",
+                        "path": "/uploads/amenities_icons/shower.png"
+                    }
+                ],
+                "pictures": [
+                    {
+                        "path": "uploads/room_images/5c0a15e64b565fbc65456f1ed8f36da1.webp",
+                        "is_primary": "0",
+                        "img_name": "5c0a15e64b565fbc65456f1ed8f36da1"
+                    },
+                    {
+                        "path": "uploads/room_images/0965cd7d3ef716651ea7e8b055080d8f.webp",
+                        "is_primary": "0",
+                        "img_name": "0965cd7d3ef716651ea7e8b055080d8f"
+                    },
+                    {
+                        "path": "uploads/room_images/b4a50b8d9619e7648626c7f708f48e1b.webp",
+                        "is_primary": "0",
+                        "img_name": "b4a50b8d9619e7648626c7f708f48e1b"
+                    },
+                    {
+                        "path": "uploads/room_images/0b5a485253443dfb38ee765ef2a088e5.webp",
+                        "is_primary": "0",
+                        "img_name": "0b5a485253443dfb38ee765ef2a088e5"
+                    },
+                    {
+                        "path": "uploads/room_images/833e23e17e51f2d14db104417af5ebd4.webp",
+                        "is_primary": "1",
+                        "img_name": "833e23e17e51f2d14db104417af5ebd4"
+                    },
+                    {
+                        "path": "uploads/room_images/0e313b634043eaea63e959be00e01dc5.webp",
+                        "is_primary": "0",
+                        "img_name": "0e313b634043eaea63e959be00e01dc5"
+                    },
+                    {
+                        "path": "uploads/room_images/783c648378dd0a160a9d6e8b3d5ca49e.webp",
+                        "is_primary": "0",
+                        "img_name": "783c648378dd0a160a9d6e8b3d5ca49e"
+                    }
+                ],
+                "rooms_available": -12
+            }
+        ],
+        "amenities_icon": [
+            {
+                "name": "geyser",
+                "path": "/uploads/amenities_icons/geyser.png"
+            },
+            {
+                "name": "toiletries",
+                "path": "/uploads/amenities_icons/toiletries.png"
+            },
+            {
+                "name": "cctv",
+                "path": "/uploads/amenities_icons/cctv.png"
+            },
+            {
+                "name": "wifi",
+                "path": "/uploads/amenities_icons/wifi.png"
+            },
+            {
+                "name": "table",
+                "path": "/uploads/amenities_icons/table.png"
+            },
+            {
+                "name": "health_faucet",
+                "path": "/uploads/amenities_icons/health_faucet.png"
+            },
+            {
+                "name": "shower",
+                "path": "/uploads/amenities_icons/shower.png"
+            }
+        ],
+        "images": [
+            "93bc5e615e6ebb8e252fdedcaf224372",
+            "2932ced4c5fb863d27e2f03c56798306",
+            "0d1b9a654ae9509bf4be5cee05f6ecf1",
+            "420e9a9de865ff55bb0fdefe2988f65c"
+        ]
+    }
+}

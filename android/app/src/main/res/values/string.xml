@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Najara Stays</string>
+    <string name="facebook_app_id">3376930782619136</string>
+    <string name="fb_login_protocol_scheme">fb3376930782619136</string>
+    <string name="facebook_client_token">4abcdc50e31b881d956ff9b20333c12b</string>
+    <string name="insta_mojo">com.najarastays.najarastays</string>
+</resources>
